@@ -6,6 +6,8 @@
   - [CryptoZombies](https://cryptozombies.io/)
   - [CryptoEconomics.Study by Karl Floersch](https://cryptoeconomics.study/)
   - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+  - [Defi](https://twitter.com/dotta/status/1420372022790483979?s=20)
+  
 
 ## Ethereum Virtual Machine (EVM)
 
@@ -39,6 +41,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Security and Best Practices
 
+  - [SCSVS](https://securing.github.io/SCSVS/)
   - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
   - [Ethereum Contract Security Techniques and Tips](https://github.com/ethereum/wiki/wiki/Safety)
   - [Solidity Docs](https://docs.soliditylang.org/en/latest/)
@@ -51,8 +54,10 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Blocksec Incidents](https://github.com/openblocksec/blocksec-incidents)
   - [Bad Things(tm)](https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing)
   
-  
-  
+## Tools
+
+  - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
+
 
 ### Positive Examples
 
