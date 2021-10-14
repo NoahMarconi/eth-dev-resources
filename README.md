@@ -53,7 +53,16 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Origin Protocol Post Mortems](https://github.com/OriginProtocol/security)
   - [Blocksec Incidents](https://github.com/openblocksec/blocksec-incidents)
   - [Bad Things(tm)](https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing)
-  
+
+## Auditing
+
+  - [Audit Research](https://www.ethsecurity.org/research-and-developer-resources/audit-research)
+  - [Solcurity](https://github.com/Rari-Capital/solcurity)
+
+## NFTs
+
+  - [Effective NFT Launches](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)
+
 ## Tools
 
   - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
