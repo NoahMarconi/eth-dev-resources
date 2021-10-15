@@ -65,6 +65,10 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Drop Tips](https://twitter.com/dotta/status/1420372022790483979?s=20)
   - [Randomization / Reveal](https://twitter.com/NateAlexNFT/status/1448378065218834436?t=nEovAPwa4__Js6xeFtf0pQ&s=03)
 
+## DeFi
+
+  - [Should I Use Spot Price As My Oracle](https://shouldiusespotpriceasmyoracle.com/)
+
 ## Tools
 
   - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
