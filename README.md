@@ -73,6 +73,11 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
   - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
 
+## Dapps & Scaffolding
+
+  - [Jolly Roger](https://jolly-roger.eth.link/demo/)
+  - [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth)
+
 
 ### Positive Examples
 
