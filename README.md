@@ -63,8 +63,10 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 ## NFTs
 
   - [Effective NFT Launches](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)
+  - [Smart Batch Auctions (agpl)](https://github.com/FrankieIsLost/smart-batched-auction)
   - [Drop Tips](https://twitter.com/dotta/status/1420372022790483979?s=20)
   - [Randomization / Reveal](https://twitter.com/NateAlexNFT/status/1448378065218834436?t=nEovAPwa4__Js6xeFtf0pQ&s=03)
+  - [Be Better (Zeneca)](https://zeneca33.substack.com/p/letter-21-be-better)
 
 ## DeFi
 
