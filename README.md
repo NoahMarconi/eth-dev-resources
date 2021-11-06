@@ -67,6 +67,8 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Drop Tips](https://twitter.com/dotta/status/1420372022790483979?s=20)
   - [Randomization / Reveal](https://twitter.com/NateAlexNFT/status/1448378065218834436?t=nEovAPwa4__Js6xeFtf0pQ&s=03)
   - [Be Better (Zeneca)](https://zeneca33.substack.com/p/letter-21-be-better)
+  - [NFT Floor Market (tweet)](https://twitter.com/cybourgeoisie/status/1455552910394368010)
+  - [NFT Floor Market (contract)](https://etherscan.io/address/0xd9b63384Ed83D979FB9e48B1340c68774e220412#code)
 
 ## DeFi
 
