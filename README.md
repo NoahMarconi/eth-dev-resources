@@ -82,6 +82,8 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
   - [Jolly Roger](https://jolly-roger.eth.link/demo/)
   - [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth)
+  - [Template Ethereum Contracts](https://github.com/wighawag/template-ethereum-contracts)
+  - [Dapptools Tempalte](https://github.com/gakonst/dapptools-template)
 
 
 ### Positive Examples
