@@ -41,6 +41,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Security and Best Practices
 
+  - [OpSec SelfGuard RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
   - [Token Integration](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md)
   - [SCSVS](https://securing.github.io/SCSVS/)
   - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
