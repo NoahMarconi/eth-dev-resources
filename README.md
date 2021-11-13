@@ -41,6 +41,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Security and Best Practices
 
+  - [Smart Contract Security Registry](https://blog.openzeppelin.com/smart-contract-security-registry/)
   - [OpSec SelfGuard RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
   - [Token Integration](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md)
   - [SCSVS](https://securing.github.io/SCSVS/)
@@ -78,6 +79,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 ## Tools
 
   - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
+  - [ENSTools](https://github.com/alexvansande/ENSTools)
 
 ## Dapps & Scaffolding
 
