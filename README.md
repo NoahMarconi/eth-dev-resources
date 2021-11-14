@@ -72,6 +72,12 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [NFT Floor Market (tweet)](https://twitter.com/cybourgeoisie/status/1455552910394368010)
   - [NFT Floor Market (contract)](https://etherscan.io/address/0xd9b63384Ed83D979FB9e48B1340c68774e220412#code)
 
+## Math
+
+  - [Math in Solidity Part 5](https://medium.com/coinmonks/math-in-solidity-part-5-exponent-and-logarithm-9aef8515136e)
+  - [ABDK](https://github.com/abdk-consulting/abdk-libraries-solidity)
+  - [PRBMath](https://github.com/hifi-finance/prb-math)
+
 ## DeFi
 
   - [Should I Use Spot Price As My Oracle](https://shouldiusespotpriceasmyoracle.com/)
