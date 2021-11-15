@@ -77,6 +77,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Math in Solidity Part 5](https://medium.com/coinmonks/math-in-solidity-part-5-exponent-and-logarithm-9aef8515136e)
   - [ABDK](https://github.com/abdk-consulting/abdk-libraries-solidity)
   - [PRBMath](https://github.com/hifi-finance/prb-math)
+  - [Balancer V2 LogExpMath](https://github.com/balancer-labs/balancer-v2-monorepo/blob/master/pkg/solidity-utils/contracts/math/LogExpMath.sol)
 
 ## DeFi
 
