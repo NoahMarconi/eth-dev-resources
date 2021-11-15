@@ -95,6 +95,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth)
   - [Template Ethereum Contracts](https://github.com/wighawag/template-ethereum-contracts)
   - [Dapptools Tempalte](https://github.com/gakonst/dapptools-template)
+  - [Next.js Wev3-React Starter](https://github.com/chainvisions/nextjs-web3react-starter)
 
 
 ### Positive Examples
