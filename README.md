@@ -89,6 +89,12 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [ENSTools](https://github.com/alexvansande/ENSTools)
   - [Paradigm Faucet](https://faucet.paradigm.xyz/)
 
+
+## UI
+
+  - [Sign-In with Ethereum](https://github.com/spruceid/siwe)
+  - [Web3Modal](https://github.com/Web3Modal/web3modal)
+
 ## Dapps & Scaffolding
 
   - [Jolly Roger](https://jolly-roger.eth.link/demo/)
