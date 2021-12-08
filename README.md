@@ -83,6 +83,12 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
   - [Should I Use Spot Price As My Oracle](https://shouldiusespotpriceasmyoracle.com/)
 
+## DAOS
+
+  - [A Legal Framework for Decentralized Autonomous Organizations](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf)
+  - [Trustless Unincorporated Nonprofit Association](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/TUNAA.md)
+  - [DAO LLC OPERATING AGREEMENT](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/operating/DelawareOperatingAgreement.md)
+
 ## Tools
 
   - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
