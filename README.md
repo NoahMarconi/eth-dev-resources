@@ -11,6 +11,10 @@
 
 ## Ethereum Virtual Machine (EVM)
 
+## Op Codes
+
+  - [evm-opcodes](https://github.com/wolflo/evm-opcodes)
+
 LLL and the Qtum blog series are helpful in learning how the EVM differs from other runtime environments.
 
 ### LLL Series
