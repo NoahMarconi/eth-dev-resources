@@ -106,8 +106,9 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Sign-In with Ethereum](https://github.com/spruceid/siwe)
   - [Web3Modal](https://github.com/Web3Modal/web3modal)
 
-## Dapps & Scaffolding
+## Useful Repos, Dapps, & Scaffolding
 
+  - [Chain Claim](https://github.com/botdad/chain-claim)
   - [Playpen (staking related)](https://github.com/ZeframLou/playpen)
   - [merkle-airdrop-starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter)
   - [Jolly Roger](https://jolly-roger.eth.link/demo/)
