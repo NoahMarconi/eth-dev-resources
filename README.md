@@ -65,6 +65,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
   - [Audit Research](https://www.ethsecurity.org/research-and-developer-resources/audit-research)
   - [Solcurity](https://github.com/Rari-Capital/solcurity)
+  - [Scribble Example](https://github.com/JoranHonig/uniswap-v2-core/blob/master/contracts/UniswapV2Pair.sol)
 
 ## NFTs
 
