@@ -43,6 +43,10 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
   - [Data Representation in Solidity](https://ethdebug.github.io/solidity-data-representation/)  
 
+## Optimization
+
+  - [Variable Packing](https://github.com/fravoll/solidity-patterns/blob/master/docs/tight_variable_packing.md?s=09)
+
 ## Security and Best Practices
 
   - [Solidity-DevSecOps-Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
@@ -67,6 +71,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Audit Research](https://www.ethsecurity.org/research-and-developer-resources/audit-research)
   - [Solcurity](https://github.com/Rari-Capital/solcurity)
   - [Scribble Example](https://github.com/JoranHonig/uniswap-v2-core/blob/master/contracts/UniswapV2Pair.sol)
+  - [Slither in Action](https://github.com/luisfontes19/slither-static-analysis-action)
 
 ## NFTs
 
