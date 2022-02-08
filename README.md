@@ -108,6 +108,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Useful Repos, Dapps, & Scaffolding
 
+  - [lil web3](https://github.com/m1guelpf/lil-web3)
   - [Chain Claim](https://github.com/botdad/chain-claim)
   - [Playpen (staking related)](https://github.com/ZeframLou/playpen)
   - [merkle-airdrop-starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter)
