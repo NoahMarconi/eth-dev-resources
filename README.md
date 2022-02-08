@@ -45,6 +45,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Security and Best Practices
 
+  - [Solidity-DevSecOps-Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
   - [Smart Contract Security Registry](https://blog.openzeppelin.com/smart-contract-security-registry/)
   - [OpSec SelfGuard RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
   - [Token Integration](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md)
