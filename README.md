@@ -108,6 +108,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Dapps & Scaffolding
 
+  - [Playpen (staking related)](https://github.com/ZeframLou/playpen)
   - [merkle-airdrop-starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter)
   - [Jolly Roger](https://jolly-roger.eth.link/demo/)
   - [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth)
