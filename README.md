@@ -119,6 +119,8 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Chain Claim](https://github.com/botdad/chain-claim)
   - [Playpen (staking related)](https://github.com/ZeframLou/playpen)
   - [merkle-airdrop-starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter)
+  - [zkp-merkle-airdrop](https://github.com/a16z/zkp-merkle-airdrop-contracts)
+  - [stealthdrop](https://github.com/nalinbhardwaj/stealthdrop)
   - [Jolly Roger](https://jolly-roger.eth.link/demo/)
   - [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth)
   - [Template Ethereum Contracts](https://github.com/wighawag/template-ethereum-contracts)
