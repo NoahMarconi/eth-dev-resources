@@ -2,6 +2,7 @@
 
 ## Beginner and Tutorials
 
+  - [ethereumbook](https://github.com/ethereumbook/ethereumbook)
   - [The Ethernaut by Zeppelin](https://ethernaut.zeppelin.solutions/)
   - [CryptoZombies](https://cryptozombies.io/)
   - [CryptoEconomics.Study by Karl Floersch](https://cryptoeconomics.study/)
@@ -49,6 +50,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Security and Best Practices
 
+  - [(Leanring) Introduction to smart contract security and hacking in Ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
   - [Solidity-DevSecOps-Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
   - [Smart Contract Security Registry](https://blog.openzeppelin.com/smart-contract-security-registry/)
   - [OpSec SelfGuard RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
@@ -94,6 +96,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 ## DeFi
 
   - [Should I Use Spot Price As My Oracle](https://shouldiusespotpriceasmyoracle.com/)
+  - [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
 ## DAOS
 
