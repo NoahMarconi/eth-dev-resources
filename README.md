@@ -50,6 +50,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Security and Best Practices
 
+  - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts)
   - [(Leanring) Introduction to smart contract security and hacking in Ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
   - [Solidity-DevSecOps-Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
   - [Smart Contract Security Registry](https://blog.openzeppelin.com/smart-contract-security-registry/)
