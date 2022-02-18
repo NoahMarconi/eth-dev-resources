@@ -150,6 +150,15 @@ These techniques are particularly useful for making proper use of data on and of
 
   - [Merkle Air-Drops: Make Love, Not War](https://blog.ricmoo.com/merkle-air-drops-e6406945584d)
 
+## Tokenomics
+
+  - [Crowdsourced List](https://airtable.com/shraQiFHFxU7rm7Wv/tblBVGLgh1XQpun1b)
+  - [tokenomics-101](https://every.to/almanack/tokenomics-101)
+  - [economicsdesign.com](https://economicsdesign.com/)
+  - [Intro to Tokenomics Resources](https://docs.google.com/document/d/1gTPIQMLVcv_OQ8flblVTCWWfrGadQNxZXNZTvDh6iKA/edit)
+  - [Field Guide to the Curve Wars: DeFi’s Fight for Liquidity](https://every.to/almanack/curve-wars)
+  - [Introducing Lockdrop + LBA](https://members.delphidigital.io/reports/introducing-lockdrop-lba-a-novel-token-launch-mechanism/)
+
 ## Meta Transactions
 
   - [Ethereum Meta Transactions](https://medium.com/@austin_48503/ethereum-meta-transactions-90ccf0859e84)
