@@ -109,6 +109,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
   - [ENSTools](https://github.com/alexvansande/ENSTools)
   - [Paradigm Faucet](https://faucet.paradigm.xyz/)
+  - [Sourcegraph](https://sourcegraph.com/search)
 
 
 ## UI
