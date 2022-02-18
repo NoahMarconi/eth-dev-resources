@@ -75,6 +75,8 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Solcurity](https://github.com/Rari-Capital/solcurity)
   - [Scribble Example](https://github.com/JoranHonig/uniswap-v2-core/blob/master/contracts/UniswapV2Pair.sol)
   - [Slither in Action](https://github.com/luisfontes19/slither-static-analysis-action)
+  - [CryptoFin's Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist/blob/master/README.md)
+  - [Sushi/Lex Checklist](https://github.com/lexDAO/LexCorpus/blob/master/contracts/CHECKS.txt)
 
 ## NFTs
 
