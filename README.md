@@ -50,6 +50,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Security and Best Practices
 
+  - [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
   - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts)
   - [(Leanring) Introduction to smart contract security and hacking in Ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
   - [Solidity-DevSecOps-Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
@@ -113,6 +114,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [ENSTools](https://github.com/alexvansande/ENSTools)
   - [Paradigm Faucet](https://faucet.paradigm.xyz/)
   - [Sourcegraph](https://sourcegraph.com/search)
+  - [Online ABI Encoding](https://abi.hashex.org/)
 
 
 ## UI
