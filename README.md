@@ -14,6 +14,7 @@
 
 ## Op Codes
 
+  - [evm codes](http://evm.codes/)
   - [evm-opcodes](https://github.com/wolflo/evm-opcodes)
 
 LLL and the Qtum blog series are helpful in learning how the EVM differs from other runtime environments.
