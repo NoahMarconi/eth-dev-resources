@@ -2,7 +2,7 @@
 
 ## Beginner and Tutorials
 
-### Recommended
+### Recommended Starting Point
   - [ethereumbook](https://github.com/ethereumbook/ethereumbook)
   - [The Ethernaut by Zeppelin](https://ethernaut.zeppelin.solutions/)
   - [CryptoZombies](https://cryptozombies.io/)
