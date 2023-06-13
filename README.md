@@ -2,13 +2,20 @@
 
 ## Beginner and Tutorials
 
+### Recommended
   - [ethereumbook](https://github.com/ethereumbook/ethereumbook)
   - [The Ethernaut by Zeppelin](https://ethernaut.zeppelin.solutions/)
   - [CryptoZombies](https://cryptozombies.io/)
-  - [CryptoEconomics.Study by Karl Floersch](https://cryptoeconomics.study/)
+
+### Videos
+  - [Secureum](https://www.youtube.com/@SecureumVideos/playlists)
+  - [PatrickCollins](https://www.youtube.com/c/PatrickCollins)
+
+### Notes
+  - [Securuem Mind Map](https://github.com/x676f64/secureum-mind_map)
+
+## Lists
   - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
-  - [Defi](https://twitter.com/dotta/status/1420372022790483979?s=20)
-  
 
 ## Ethereum Virtual Machine (EVM)
 
