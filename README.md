@@ -7,9 +7,14 @@
   - [The Ethernaut by Zeppelin](https://ethernaut.zeppelin.solutions/)
   - [CryptoZombies](https://cryptozombies.io/)
 
+### Docs
+  - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.20/index.html)
+  - [Solidity By Example](https://solidity-by-example.org/)
+
 ### Videos
   - [Secureum](https://www.youtube.com/@SecureumVideos/playlists)
   - [PatrickCollins](https://www.youtube.com/c/PatrickCollins)
+  - [smartcontractprogrammer](https://www.youtube.com/@smartcontractprogrammer)
 
 ### Notes
   - [Securuem Mind Map](https://github.com/x676f64/secureum-mind_map)
