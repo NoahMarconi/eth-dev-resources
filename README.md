@@ -24,14 +24,14 @@
 
 ## Ethereum Virtual Machine (EVM)
 
-## Op Codes
+### Op Codes
 
   - [evm codes](http://evm.codes/)
   - [evm-opcodes](https://github.com/wolflo/evm-opcodes)
 
-LLL and the Qtum blog series are helpful in learning how the EVM differs from other runtime environments.
-
 ### LLL Series
+
+LLL and the Qtum blog series are helpful in learning how the EVM differs from other runtime environments.
 
   - [An Introduction to LLL for Ethereum Smart Contract Development](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23)
   - [Building and Installing Ethereum Compilers](https://media.consensys.net/installing-ethereum-compilers-61d701e78f6)
