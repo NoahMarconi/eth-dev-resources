@@ -57,6 +57,10 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
   - [Data Representation in Solidity](https://ethdebug.github.io/solidity-data-representation/)  
 
+## Yul and Assembly
+
+  - [Beginner's Guide to Yul](https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef)
+
 ## Optimization
 
   - [Variable Packing](https://github.com/fravoll/solidity-patterns/blob/master/docs/tight_variable_packing.md?s=09)
