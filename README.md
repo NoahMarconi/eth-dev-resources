@@ -64,6 +64,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 ## Optimization
 
   - [Variable Packing](https://github.com/fravoll/solidity-patterns/blob/master/docs/tight_variable_packing.md?s=09)
+  - [KadenZipfel/gas-optimizations](https://github.com/KadenZipfel/gas-optimizations)
 
 ## Security and Best Practices
 
