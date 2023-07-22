@@ -15,6 +15,7 @@
   - [Secureum](https://www.youtube.com/@SecureumVideos/playlists)
   - [PatrickCollins](https://www.youtube.com/c/PatrickCollins)
   - [smartcontractprogrammer](https://www.youtube.com/@smartcontractprogrammer)
+  - [Ethereum Yellow Paper Course](https://www.youtube.com/watch?v=e84V1MxRlYs)
   - [teachyourselfcrypto.com/#ftoc](https://teachyourselfcrypto.com/#ftoc-module-4-decentralized-finance-defi)
 
 ### Notes
@@ -75,12 +76,13 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Security and Best Practices
 
+  - [DeFi Hacks Analysis - Root Cause](https://web3secz.notion.site/web3sec/ba459372dc434341b99ec92a932f98dc?v=7fceca7b3da74aa8a99b49c44a2a3916)
+  - [Web3/Crypto Hacks DB](https://telegra.ph/Web3Crypto-Hacks-DB-04-19)
   - [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs)
   - [Awesome Security](https://github.com/sbilly/awesome-security)
   - [Awesome EVM Security](https://github.com/kareniel/awesome-evm-security)
   - [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
   - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts)
-  - [(Leanring) Introduction to smart contract security and hacking in Ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
   - [Solidity-DevSecOps-Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
   - [Smart Contract Security Registry](https://blog.openzeppelin.com/smart-contract-security-registry/)
   - [OpSec SelfGuard RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
@@ -100,7 +102,24 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Typical vulnerabilities in LSD protocols](https://blog.decurity.io/typical-vulnerabilities-in-lsd-protocols-e52ffe4ee175)
   - [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor)
   - [Evaluating blockchain security maturity](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/)
+
+  - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+  - [Decently Safe DeFi](https://decentlysafedefi.xyz/me/)
+  - [NFT Attack Vectors](https://github.com/Quillhash/NFT-Attack-Vectors)
+
+### Fuzzing 
+
+  - [Fuzzy DeFi](https://github.com/0xNazgul/fuzzydefi)
+
+### Learning
+
+  - [yieldprotocol/mentorship2022](https://github.com/yieldprotocol/mentorship2022/issues)
   - [Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
+  - [(Leanring) Introduction to smart contract security and hacking in Ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
+
+## Patterns
+
+  - [useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns)
 
 ## Web 2 Sec
 
@@ -146,6 +165,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## MEV
 
+  - [artemis](https://github.com/paradigmxyz/artemis)
   - [uniswapx-artemis](https://github.com/marktoda/uniswapx-artemis)
 
 ## Tools
@@ -183,6 +203,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [reth-indexer](https://github.com/joshstevens19/reth-indexer)
   - [subsquid.io](https://www.subsquid.io/)
   - [Index Supply](https://github.com/indexsupply/x/tree/main/docs/e2pg)
+  - [smoldata](https://www.smoldata.xyz/)
 
 ### Positive Examples
 
