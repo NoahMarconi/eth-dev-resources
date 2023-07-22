@@ -28,6 +28,7 @@
 
   - [evm codes](http://evm.codes/)
   - [evm-opcodes](https://github.com/wolflo/evm-opcodes)
+  - [evm-opcode-gas-costs](https://github.com/djrtwo/evm-opcode-gas-costs)
 
 ### LLL Series
 
@@ -56,6 +57,10 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 ### Ethdebug
 
   - [Data Representation in Solidity](https://ethdebug.github.io/solidity-data-representation/)  
+
+## L1
+
+  - [consensus-specs](https://github.com/ethereum/consensus-specs)
 
 ## Yul and Assembly
 
@@ -87,6 +92,9 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Origin Protocol Post Mortems](https://github.com/OriginProtocol/security)
   - [Blocksec Incidents](https://github.com/openblocksec/blocksec-incidents)
   - [Bad Things(tm)](https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing)
+  - [Typical vulnerabilities in LSD protocols](https://blog.decurity.io/typical-vulnerabilities-in-lsd-protocols-e52ffe4ee175)
+  - [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor)
+  - [Evaluating blockchain security maturity](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/)
 
 ## Auditing
 
@@ -126,6 +134,10 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Trustless Unincorporated Nonprofit Association](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/TUNAA.md)
   - [DAO LLC OPERATING AGREEMENT](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/operating/DelawareOperatingAgreement.md)
 
+## MEV
+
+  - [uniswapx-artemis](https://github.com/marktoda/uniswapx-artemis)
+
 ## Tools
 
   - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
@@ -154,6 +166,9 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Dapptools Tempalte](https://github.com/gakonst/dapptools-template)
   - [Next.js Wev3-React Starter](https://github.com/chainvisions/nextjs-web3react-starter)
 
+## Analytics
+
+  - [cryo](https://github.com/paradigmxyz/cryo)
 
 ### Positive Examples
 
@@ -161,6 +176,7 @@ For examples of proper testing of smart contract and client libraries, check out
 
   - [OpenZeppelin Solidity](https://github.com/OpenZeppelin/openzeppelin-solidity)
   - [Ethers.js](https://github.com/ethers-io/ethers.js/)
+  - [Sablier V2](https://typefully.com/PaulRBerg/LRwsCx3)
 
 ## Data Structures
 
@@ -187,6 +203,7 @@ These techniques are particularly useful for making proper use of data on and of
   - [Gasless or Meta Transactions](https://medium.com/coinmonks/gasless-transactions-f75382095c4f)
   - [Native Meta Transactions](https://medium.com/gitcoin/native-meta-transactions-e509d91a8482)
   - [Meta Transactions - Noah Marconi](https://github.com/NoahMarconi/metatransactions/tree/master/presentations)
+  - [Monkrush](https://github.com/ArjunBhuptani/monkrush)
 
 ## One Time Addresses
 
