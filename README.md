@@ -117,6 +117,10 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
   - [(Leanring) Introduction to smart contract security and hacking in Ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
 
+### Tools
+
+  - [Slitherin by Pessimistic.io](https://github.com/pessimistic-io/slitherin) (slither add on)
+
 ## Patterns
 
   - [useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns)
