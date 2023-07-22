@@ -79,7 +79,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs)
   - [Awesome Security](https://github.com/sbilly/awesome-security)
   - [Awesome EVM Security](https://github.com/kareniel/awesome-evm-security)
-  - [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
+
   - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts)
   - [Solidity-DevSecOps-Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
   - [Smart Contract Security Registry](https://blog.openzeppelin.com/smart-contract-security-registry/)
@@ -110,6 +110,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Bad Things(tm)](https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing)
   - [Typical vulnerabilities in LSD protocols](https://blog.decurity.io/typical-vulnerabilities-in-lsd-protocols-e52ffe4ee175)
   - [Lending/Borrowing DeFi Attacks](https://dacian.me/lending-borrowing-defi-attacks)
+  - [List of Security Vulnerabilities](https://github.com/runtimeverification/verified-smart-contracts/wiki/List-of-Security-Vulnerabilities)
 
 ### Fuzzing 
 
@@ -128,6 +129,9 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 ## Patterns
 
   - [useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns)
+  - [yAcademy Proxies Research](https://proxies.yacademy.dev/)
+  - [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
+
 
 ## Web 2 Sec
 
@@ -212,6 +216,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [subsquid.io](https://www.subsquid.io/)
   - [Index Supply](https://github.com/indexsupply/x/tree/main/docs/e2pg)
   - [smoldata](https://www.smoldata.xyz/)
+  - [Ponder](https://ponder.sh/)
 
 ### Positive Examples
 
