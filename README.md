@@ -69,6 +69,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Beginner's Guide to Yul](https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef)
   - [yul_by_example](https://github.com/Perelyn-sama/yul_by_example)
   - [YulUtilFunctions.cpp](https://github.com/ethereum/solidity/blob/develop/libsolidity/codegen/YulUtilFunctions.cpp?s=03)
+  - [yools - tools for Yul](https://github.com/leonardoalt/yools)
 
 ## Optimization
 
@@ -102,6 +103,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Smart Contract Vulnerabilities](https://kadenzipfel.github.io/smart-contract-vulnerabilities)
   - [DeFi Hacks Analysis - Root Cause](https://web3secz.notion.site/web3sec/ba459372dc434341b99ec92a932f98dc?v=7fceca7b3da74aa8a99b49c44a2a3916)
   - [Web3/Crypto Hacks DB](https://telegra.ph/Web3Crypto-Hacks-DB-04-19)
+  - [Solidity Smart Contract Attack Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors)
   - [NFT Attack Vectors](https://github.com/Quillhash/NFT-Attack-Vectors)
   - [Vulnerabilities Presentation](https://docs.google.com/presentation/d/1nOX__vvVqW5frDs93W9D81U3KEX-kAg8GhGobCOnmZo)
   - [History of Ethereum Security Vulnerabilities, Hacks, and Their Fixes](https://applicature.com/blog/blockchain-technology/history-of-ethereum-security-vulnerabilities-hacks-and-their-fixes)
@@ -116,6 +118,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [DeFi Hacks Reproduce - Foundry](https://github.com/SunWeb3Sec/DeFiHackLabs)
   - [Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
   - [Precision Loss Errors](https://dacian.me/precision-loss-errors)
+  - [BrokenToken](https://github.com/zeroknots/brokentoken)
 
 ### Fuzzing 
 
