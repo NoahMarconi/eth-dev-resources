@@ -99,6 +99,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ### Known Vulnerabilities
 
+  - [Smart Contract Vulnerabilities](https://kadenzipfel.github.io/smart-contract-vulnerabilities)
   - [DeFi Hacks Analysis - Root Cause](https://web3secz.notion.site/web3sec/ba459372dc434341b99ec92a932f98dc?v=7fceca7b3da74aa8a99b49c44a2a3916)
   - [Web3/Crypto Hacks DB](https://telegra.ph/Web3Crypto-Hacks-DB-04-19)
   - [NFT Attack Vectors](https://github.com/Quillhash/NFT-Attack-Vectors)
