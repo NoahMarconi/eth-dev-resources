@@ -15,6 +15,7 @@
   - [Secureum](https://www.youtube.com/@SecureumVideos/playlists)
   - [PatrickCollins](https://www.youtube.com/c/PatrickCollins)
   - [smartcontractprogrammer](https://www.youtube.com/@smartcontractprogrammer)
+  - [teachyourselfcrypto.com/#ftoc](https://teachyourselfcrypto.com/#ftoc-module-4-decentralized-finance-defi)
 
 ### Notes
   - [Securuem Mind Map](https://github.com/x676f64/secureum-mind_map)
@@ -65,6 +66,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 ## Yul and Assembly
 
   - [Beginner's Guide to Yul](https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef)
+  - [yul_by_example](https://github.com/Perelyn-sama/yul_by_example)
 
 ## Optimization
 
@@ -73,6 +75,9 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Security and Best Practices
 
+  - [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs)
+  - [Awesome Security](https://github.com/sbilly/awesome-security)
+  - [Awesome EVM Security](https://github.com/kareniel/awesome-evm-security)
   - [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
   - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts)
   - [(Leanring) Introduction to smart contract security and hacking in Ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
@@ -80,7 +85,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Smart Contract Security Registry](https://blog.openzeppelin.com/smart-contract-security-registry/)
   - [OpSec SelfGuard RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
   - [Token Integration](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md)
-  - [SCSVS](https://securing.github.io/SCSVS/)
+  - [SCSVS](https://securing.github.io/SCSVS/) & [V2](https://github.com/ComposableSecurity/SCSVS)
   - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
   - [Ethereum Contract Security Techniques and Tips](https://github.com/ethereum/wiki/wiki/Safety)
   - [Solidity Docs](https://docs.soliditylang.org/en/latest/)
@@ -95,6 +100,11 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Typical vulnerabilities in LSD protocols](https://blog.decurity.io/typical-vulnerabilities-in-lsd-protocols-e52ffe4ee175)
   - [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor)
   - [Evaluating blockchain security maturity](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/)
+  - [Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
+
+## Web 2 Sec
+
+  - [Web Security Academy](https://portswigger.net/web-security/learning-path)
 
 ## Auditing
 
@@ -169,6 +179,10 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 ## Analytics
 
   - [cryo](https://github.com/paradigmxyz/cryo)
+  - [Desmos for converting your univ3 pool to an order book](https://twitter.com/MaxResnick1/status/1676624075538698240) & [desmos](https://www.desmos.com/calculator/rlbqg8vqkc)
+  - [reth-indexer](https://github.com/joshstevens19/reth-indexer)
+  - [subsquid.io](https://www.subsquid.io/)
+  - [Index Supply](https://github.com/indexsupply/x/tree/main/docs/e2pg)
 
 ### Positive Examples
 
@@ -176,7 +190,7 @@ For examples of proper testing of smart contract and client libraries, check out
 
   - [OpenZeppelin Solidity](https://github.com/OpenZeppelin/openzeppelin-solidity)
   - [Ethers.js](https://github.com/ethers-io/ethers.js/)
-  - [Sablier V2](https://typefully.com/PaulRBerg/LRwsCx3)
+  - [Sablier V2](https://typefully.com/PaulRBerg/LRwsCx3) 
 
 ## Data Structures
 
