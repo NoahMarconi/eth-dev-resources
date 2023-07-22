@@ -68,6 +68,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
   - [Beginner's Guide to Yul](https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef)
   - [yul_by_example](https://github.com/Perelyn-sama/yul_by_example)
+  - [YulUtilFunctions.cpp](https://github.com/ethereum/solidity/blob/develop/libsolidity/codegen/YulUtilFunctions.cpp?s=03)
 
 ## Optimization
 
@@ -111,6 +112,9 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Typical vulnerabilities in LSD protocols](https://blog.decurity.io/typical-vulnerabilities-in-lsd-protocols-e52ffe4ee175)
   - [Lending/Borrowing DeFi Attacks](https://dacian.me/lending-borrowing-defi-attacks)
   - [List of Security Vulnerabilities](https://github.com/runtimeverification/verified-smart-contracts/wiki/List-of-Security-Vulnerabilities)
+  - [DeFi Hacks Reproduce - Foundry](https://github.com/SunWeb3Sec/DeFiHackLabs)
+  - [Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
+  - [Precision Loss Errors](https://dacian.me/precision-loss-errors)
 
 ### Fuzzing 
 
@@ -119,7 +123,6 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 ### Learning
 
   - [yieldprotocol/mentorship2022](https://github.com/yieldprotocol/mentorship2022/issues)
-  - [Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
   - [(Leanring) Introduction to smart contract security and hacking in Ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
 
 ### Tools
@@ -149,6 +152,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 ## NFTs
 
   - [Effective NFT Launches](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)
+  - [SS2ERC721 Starter Kit](https://github.com/karmacoma-eth/SS2ERC721-starter-kit)
   - [Smart Batch Auctions (agpl)](https://github.com/FrankieIsLost/smart-batched-auction)
   - [Drop Tips](https://twitter.com/dotta/status/1420372022790483979?s=20)
   - [Randomization / Reveal](https://twitter.com/NateAlexNFT/status/1448378065218834436?t=nEovAPwa4__Js6xeFtf0pQ&s=03)
