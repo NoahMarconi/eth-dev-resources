@@ -76,8 +76,6 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Security and Best Practices
 
-  - [DeFi Hacks Analysis - Root Cause](https://web3secz.notion.site/web3sec/ba459372dc434341b99ec92a932f98dc?v=7fceca7b3da74aa8a99b49c44a2a3916)
-  - [Web3/Crypto Hacks DB](https://telegra.ph/Web3Crypto-Hacks-DB-04-19)
   - [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs)
   - [Awesome Security](https://github.com/sbilly/awesome-security)
   - [Awesome EVM Security](https://github.com/kareniel/awesome-evm-security)
@@ -92,6 +90,17 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Ethereum Contract Security Techniques and Tips](https://github.com/ethereum/wiki/wiki/Safety)
   - [Solidity Docs](https://docs.soliditylang.org/en/latest/)
   - [Security Tools](https://github.com/ConsenSys/ethereum-developer-tools-list#security-tools)
+  - [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor)
+  - [Evaluating blockchain security maturity](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/)
+  - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+  - [Decently Safe DeFi](https://decentlysafedefi.xyz/me/)
+
+
+### Known Vulnerabilities
+
+  - [DeFi Hacks Analysis - Root Cause](https://web3secz.notion.site/web3sec/ba459372dc434341b99ec92a932f98dc?v=7fceca7b3da74aa8a99b49c44a2a3916)
+  - [Web3/Crypto Hacks DB](https://telegra.ph/Web3Crypto-Hacks-DB-04-19)
+  - [NFT Attack Vectors](https://github.com/Quillhash/NFT-Attack-Vectors)
   - [Vulnerabilities Presentation](https://docs.google.com/presentation/d/1nOX__vvVqW5frDs93W9D81U3KEX-kAg8GhGobCOnmZo)
   - [History of Ethereum Security Vulnerabilities, Hacks, and Their Fixes](https://applicature.com/blog/blockchain-technology/history-of-ethereum-security-vulnerabilities-hacks-and-their-fixes)
   - [DASP Top 10](https://dasp.co/index.html)
@@ -100,12 +109,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Blocksec Incidents](https://github.com/openblocksec/blocksec-incidents)
   - [Bad Things(tm)](https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing)
   - [Typical vulnerabilities in LSD protocols](https://blog.decurity.io/typical-vulnerabilities-in-lsd-protocols-e52ffe4ee175)
-  - [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor)
-  - [Evaluating blockchain security maturity](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/)
-
-  - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
-  - [Decently Safe DeFi](https://decentlysafedefi.xyz/me/)
-  - [NFT Attack Vectors](https://github.com/Quillhash/NFT-Attack-Vectors)
+  - [Lending/Borrowing DeFi Attacks](https://dacian.me/lending-borrowing-defi-attacks)
 
 ### Fuzzing 
 
