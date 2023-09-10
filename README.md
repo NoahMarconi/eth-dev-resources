@@ -78,6 +78,12 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ## Security and Best Practices
 
+### General 
+
+  - [MyCrypto’s Security Guide For Dummies And Smart People Too](https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e)
+
+### Security Review
+
   - [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs)
   - [Awesome Security](https://github.com/sbilly/awesome-security)
   - [Awesome EVM Security](https://github.com/kareniel/awesome-evm-security)
