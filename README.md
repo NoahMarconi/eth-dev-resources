@@ -200,6 +200,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [ENSTools](https://github.com/alexvansande/ENSTools)
   - [Paradigm Faucet](https://faucet.paradigm.xyz/)
   - [Sourcegraph](https://sourcegraph.com/search)
+  - [codeslaw.app](https://www.codeslaw.app/)
   - [Online ABI Encoding](https://abi.hashex.org/)
 
 
