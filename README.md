@@ -239,7 +239,8 @@ For examples of proper testing of smart contract and client libraries, check out
 
   - [OpenZeppelin Solidity](https://github.com/OpenZeppelin/openzeppelin-solidity)
   - [Ethers.js](https://github.com/ethers-io/ethers.js/)
-  - [Sablier V2](https://typefully.com/PaulRBerg/LRwsCx3) 
+  - [Sablier V2](https://typefully.com/PaulRBerg/LRwsCx3)
+  - [Awesome Smart Contract Testing](https://github.com/GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification)
 
 ## Data Structures
 
