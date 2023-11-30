@@ -269,6 +269,11 @@ These techniques are particularly useful for making proper use of data on and of
   - [Meta Transactions - Noah Marconi](https://github.com/NoahMarconi/metatransactions/tree/master/presentations)
   - [Monkrush](https://github.com/ArjunBhuptani/monkrush)
 
+## eip4337
+
+  - [userop_debugger](https://github.com/zerodevapp/userop_debugger)
+  - [audit-checklists/ERC-4337](https://github.com/aviggiano/security/blob/main/audit-checklists/ERC-4337.md)
+
 ## One Time Addresses
 
   - [How to send Ether to 11,440 people](https://medium.com/@weka/how-to-send-ether-to-11-440-people-187e332566b7)
