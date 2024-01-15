@@ -206,6 +206,9 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Sourcegraph](https://sourcegraph.com/search)
   - [grep.app](https://grep.app/)
 
+### Diff
+
+  - [difftastic](https://github.com/Wilfred/difftastic)
 
 ## UI
 
