@@ -129,6 +129,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 ### Fuzzing 
 
   - [Fuzzy DeFi](https://github.com/0xNazgul/fuzzydefi)
+  - [Quick tips to start your next invariant test campaign](https://allthingsfuzzy.substack.com/p/quick-tips-to-start-your-next-invariant)
 
 ### Learning
 
