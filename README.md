@@ -84,6 +84,7 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ### Security Review
 
+  - [Vulnerabilities of smart contracts and mitigation schemes: A Comprehensive Survey](https://arxiv.org/abs/2403.19805)
   - [0xNazgul/Blockchain-Security-Library](https://github.com/0xNazgul/Blockchain-Security-Library)
   - [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs)
   - [Awesome Security](https://github.com/sbilly/awesome-security)
