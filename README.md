@@ -84,10 +84,10 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
 
 ### Security Review
 
+  - [0xNazgul/Blockchain-Security-Library](https://github.com/0xNazgul/Blockchain-Security-Library)
   - [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs)
   - [Awesome Security](https://github.com/sbilly/awesome-security)
   - [Awesome EVM Security](https://github.com/kareniel/awesome-evm-security)
-
   - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts)
   - [Solidity-DevSecOps-Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
   - [Smart Contract Security Registry](https://blog.openzeppelin.com/smart-contract-security-registry/)
